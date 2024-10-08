@@ -16,3 +16,11 @@ This is an object-oriented program related to creating SERVER using in ESP32.
 
 * void checkWiFi();
 檢查是否連線WiFi。
+
+其他
+* String getAPI();
+  顯示Server的API位置
+* String getssid();
+  顯示帳號
+* String getpass();
+  顯示密碼
